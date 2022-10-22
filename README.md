@@ -1,1 +1,3 @@
 # Authentication_and_Security_of_App_Part-3-
+
+Using npm 'bcypt' and saltrounds to make the password more stronger instead of using md5 or mongoose-encryption...
